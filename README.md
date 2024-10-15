@@ -1,4 +1,4 @@
-Este foi o desafio final proposto pela DIO de forma colocar em prática todo o conhecimento sobre a Lógica de programação e Estrutura de dados. 
+Este foi o desafio final proposto pela DIO de forma colocar em prática todo o conhecimento sobre a Lógica de programação e Estrutura de dados com Javascript.
 
 Nome do desafio: Escrevendo as classes de um Jogo
 
